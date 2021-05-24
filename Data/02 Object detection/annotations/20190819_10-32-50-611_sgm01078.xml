@@ -1,0 +1,38 @@
+<annotation>
+	<folder>random 2000</folder>
+	<filename>20190819_10-32-50-611_sgm01078.jpg</filename>
+	<path>/Users/Christian/Google Drive/Masterthesis/datasets/sinsheim_random_C/random 2000/20190819_10-32-50-611_sgm01078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>road_damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>163</ymin>
+			<xmax>577</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>road_damage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>44</ymin>
+			<xmax>352</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

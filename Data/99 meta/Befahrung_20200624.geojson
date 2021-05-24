@@ -1,0 +1,30 @@
+{
+	"type": "FeatureCollection",
+	"name": "D:\\kosima GmbH\\OCROSS - Dokumente\\Projektdaten\\Datenuebergabe\\Befahrung_201908.geojson",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"DATE": "20200624",
+				"TIME": "09-34-48-177",
+				"_VIDEO": "20200624_09-34-48-177"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DATE": "20200624",
+				"TIME": "11-25-43-784",
+				"_VIDEO": "20200624_11-25-43-784"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DATE": "20200624",
+				"TIME": "11-54-32-591",
+				"_VIDEO": "20200624_11-54-32-591"
+			}
+		}
+	]
+}
