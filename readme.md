@@ -1,6 +1,6 @@
 # Vision-based IRI prediction
 
-This repository contains the code and the datasets used in my master's thesis *_Application of deep Learning Methods for the Analysis of Road Surface Quality_* at Karlsruhe Institute of Technology (Forschungszentrum Informatik).
+This repository contains the code and the datasets used in my master's thesis *Application of deep Learning Methods for the Analysis of Road Surface Quality* at Karlsruhe Institute of Technology (Forschungszentrum Informatik).
 
 ## Abstract:
 Various methods are used in practice to measure the roughness of road surfaces. Advances in the field of deep learning and automatic image processing are creating new opportunities to use data for this purpose. The aim of this study is to investigate whether image data is sufficient to determine the International Roughness Index (IRI), which describes road evenness. Therefore, datasets were generated consisting of camera images of the road surface and IRI values recorded via *lidar*. Using transfer learning, convolutional neural nets were trained to assign the road images to a discrete IRI class.
