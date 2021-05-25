@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "H:\\OCROSS\\kDAQ\\kdaqout_20200624\\Proval\\IRI_20200624_4326.geojson",
+"name": "IRI_20200624_4326.geojson",
 "features": [
 { "type": "Feature", "properties": { "NR": "1", "BST": "20", "IRIC_m_km": "4.724719", "IRIL_m_km": "7.185356", "IRIR_m_km": "3.738427", "VIDEO": "20200624_09-34-48-177", "VST": "0", "Abnr": "1", "IRIC_CLASS": "4", "IRIL_CLASS": "5", "IRIR_CLASS": "3" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.445100465419037, 48.987842554613522 ], [ 8.444896604853275, 48.987962413089235 ] ] } },
 { "type": "Feature", "properties": { "NR": "2", "BST": "40", "IRIC_m_km": "3.089778", "IRIL_m_km": "3.38435", "IRIR_m_km": "3.549848", "VIDEO": "20200624_09-34-48-177", "VST": "20", "Abnr": "2", "IRIC_CLASS": "3", "IRIL_CLASS": "3", "IRIR_CLASS": "3" }, "geometry": { "type": "LineString", "coordinates": [ [ 8.444896604853275, 48.987962413089235 ], [ 8.444689869477967, 48.988080116391387 ] ] } },

@@ -3,7 +3,7 @@
 
 ## Image directories
 Collections of images used as input for training and testing. (IRI assignment approach in brackets)
-### sinsheim_A_crop/
+### sinsheim_A_crop/ *(not publicly available)*
 - from original .jpg collection (A)
 - cropped to relevant part of the road
 - resolution: 776:582
@@ -13,12 +13,12 @@ Collections of images used as input for training and testing. (IRI assignment ap
 - warped to top-down perspective
 - resolution: 600:600
 
-### sinsheim_B_full/
+### sinsheim_B_full/ *(not publicly available)*
 - image frames extracted from videos 
 - one image represents one IRI segment (B)
 - resolution: 1920:1080 
 
-### sinsheim_B_crop/
+### sinsheim_B_crop/ *(not publicly available)*
 - same image frames as *sinsheim_B_full*
 - cropped relevant part of the road
 - resolution: 776:582

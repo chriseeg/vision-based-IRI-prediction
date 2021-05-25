@@ -1,2 +1,5 @@
-*.jpg
 *.zip
+**/sinsheim_A_crop/
+**/sinsheim_B_crop/
+**/sinsheim_B_full/
+**/99 zipped
