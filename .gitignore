@@ -1,5 +1,6 @@
 *.zip
-**/sinsheim_A_crop/
-**/sinsheim_B_crop/
-**/sinsheim_B_full/
-**/99 zipped
+/Data/01 IRI prediction/sinsheim_A_crop/**
+/Data/01 IRI prediction/sinsheim_B_crop/**
+/Data/01 IRI prediction/sinsheim_B_full/**
+/Data/01 IRI prediction/99 zipped
+*.jpg
