@@ -10,5 +10,5 @@
 
 ## 99 zipped/
 all necessary files in one place, used to extract data in Google Colab notebook
-- zip files of image folders
+- zip files of image folders *(not published due to size limits)*
 - related csv files
